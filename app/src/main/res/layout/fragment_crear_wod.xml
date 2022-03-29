@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    android:elevation="16dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".view.fragments.CrearWodFragment">
+
+        <View
+            android:id="@+id/contain_wod"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/drw_corners"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <TextView
+            android:id="@+id/tv_titulo_wod"
+            style="@style/st_frg_ult_wod"
+            android:layout_margin="10dp"
+            android:text="@string/str_titulo_wod"
+            app:layout_constraintBottom_toTopOf="@+id/tv_tipo"
+            app:layout_constraintEnd_toEndOf="@+id/contain_wod"
+            app:layout_constraintStart_toStartOf="@+id/contain_wod"
+            app:layout_constraintTop_toTopOf="@+id/contain_wod" />
+
+        <TextView
+            android:id="@+id/tv_tipo"
+            style="@style/st_frg_ult_wod"
+            android:text="@string/str_tipo"
+            app:layout_constraintBottom_toTopOf="@+id/tv_grupo_musc"
+            app:layout_constraintEnd_toStartOf="@+id/spin_dato_tipo"
+            app:layout_constraintStart_toStartOf="@+id/contain_wod"
+            app:layout_constraintTop_toBottomOf="@+id/tv_titulo_wod" />
+
+        <androidx.appcompat.widget.AppCompatSpinner
+            android:id="@+id/spin_dato_tipo"
+            style="@style/st_frg_ult_wod"
+            app:layout_constraintBottom_toTopOf="@+id/spin_dato_grupo_musc"
+            app:layout_constraintEnd_toEndOf="@+id/contain_wod"
+            app:layout_constraintStart_toEndOf="@id/tv_tipo"
+            app:layout_constraintTop_toBottomOf="@+id/tv_titulo_wod" />
+
+        <TextView
+            android:id="@+id/tv_grupo_musc"
+            style="@style/st_frg_ult_wod"
+            android:text="@string/str_grupo_muscular"
+            app:layout_constraintBottom_toTopOf="@+id/tv_dificultad"
+            app:layout_constraintEnd_toStartOf="@+id/spin_dato_grupo_musc"
+            app:layout_constraintStart_toStartOf="@+id/contain_wod"
+            app:layout_constraintTop_toBottomOf="@+id/tv_tipo" />
+
+        <androidx.appcompat.widget.AppCompatSpinner
+            android:id="@+id/spin_dato_grupo_musc"
+            style="@style/st_frg_ult_wod"
+            app:layout_constraintBottom_toTopOf="@+id/spin_dato_dificultad"
+            app:layout_constraintEnd_toEndOf="@+id/contain_wod"
+            app:layout_constraintStart_toEndOf="@id/tv_grupo_musc"
+            app:layout_constraintTop_toBottomOf="@+id/spin_dato_tipo" />
+
+        <TextView
+            android:id="@+id/tv_dificultad"
+            style="@style/st_frg_ult_wod"
+            android:text="@string/str_dificultad"
+            app:layout_constraintBottom_toTopOf="@+id/tv_tiempo"
+            app:layout_constraintEnd_toStartOf="@+id/spin_dato_dificultad"
+            app:layout_constraintStart_toStartOf="@+id/contain_wod"
+            app:layout_constraintTop_toBottomOf="@+id/tv_grupo_musc" />
+
+        <androidx.appcompat.widget.AppCompatSpinner
+            android:id="@+id/spin_dato_dificultad"
+            style="@style/st_frg_ult_wod"
+            app:layout_constraintBottom_toTopOf="@+id/et_dato_tiempo"
+            app:layout_constraintEnd_toEndOf="@+id/contain_wod"
+            app:layout_constraintStart_toEndOf="@id/tv_dificultad"
+            app:layout_constraintTop_toBottomOf="@+id/spin_dato_grupo_musc" />
+
+        <TextView
+            android:id="@id/tv_tiempo"
+            style="@style/st_frg_ult_wod"
+            android:text="@string/str_time_cap"
+            app:layout_constraintBottom_toTopOf="@id/tv_rondas"
+            app:layout_constraintEnd_toStartOf="@id/et_dato_tiempo"
+            app:layout_constraintStart_toStartOf="@+id/contain_wod"
+            app:layout_constraintTop_toBottomOf="@id/tv_dificultad" />
+
+        <EditText
+            android:id="@id/et_dato_tiempo"
+            style="@style/st_frg_ult_wod"
+            android:hint="@string/str_et_time_cap"
+            android:inputType="number"
+            app:layout_constraintBottom_toTopOf="@id/et_dato_rondas"
+            app:layout_constraintEnd_toEndOf="@+id/contain_wod"
+            app:layout_constraintStart_toEndOf="@id/tv_tiempo"
+            app:layout_constraintTop_toBottomOf="@id/spin_dato_dificultad" />
+
+        <TextView
+            android:id="@+id/tv_rondas"
+            style="@style/st_frg_ult_wod"
+            android:text="@string/str_rondas"
+            app:layout_constraintBottom_toBottomOf="@+id/divider1h"
+            app:layout_constraintEnd_toStartOf="@+id/et_dato_rondas"
+            app:layout_constraintStart_toStartOf="@+id/contain_wod"
+            app:layout_constraintTop_toBottomOf="@+id/tv_tiempo" />
+
+        <EditText
+            android:id="@+id/et_dato_rondas"
+            style="@style/st_frg_ult_wod"
+            android:hint="@string/str_et_rondas"
+            android:inputType="number"
+            app:layout_constraintBottom_toBottomOf="@+id/divider1h"
+            app:layout_constraintEnd_toEndOf="@+id/contain_wod"
+            app:layout_constraintStart_toEndOf="@id/tv_rondas"
+            app:layout_constraintTop_toBottomOf="@+id/et_dato_tiempo"
+            tools:ignore="TouchTargetSizeCheck" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/divider1h"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_percent="0.85" />
+
+        <Button
+            android:id="@+id/btn_crear_wod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/str_btn_crearwod"
+            android:textColor="#795548"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/divider1h"
+            app:layout_constraintVertical_bias="0.01" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

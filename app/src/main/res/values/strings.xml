@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">XeraWodApp</string>
+    <string name="email_app">itb.desarrollo@gmail.com</string>
+    <!-- NOMBRES ACTIVITIES Y FRAGMENTS -->
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_frag_register">Registro</string>
+    <string name="title_frag_crear">Crear WOD</string>
+    <string name="title_frag_hist">Historial WOD</string>
+    <string name="title_frag_ultimo">Último WOD</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="str_password">Constraseña</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="str_welcome">"Bienvenido!"</string>
+    <string name="str_access">"ACCEDER"</string>
+    <string name="str_register">"CREAR CUENTA"</string>
+    <string name="str_register_acc">"REGISTRAR"</string>
+    <!-- DESCRIPCIONES -->
+    <string name="str_content_description">"Logotipo aplicación XeraWOD"</string>
+    <string name="str_header_desc">"Encabezado app XeraWOD"</string>
+    <string name="str_btn_volver_desc">"Botón volver al inicio"</string>
+    <string name="str_btn_menu_desc">"Botón acceso a menú"</string>
+    <string name="str_btn_account_desc">"Botón acceso a cuenta"</string>
+    <!--************************************************************************ -->
+    <string name="str_logout">"Desconectar"</string>
+    <string name="str_proveedor">"Proveedor"</string>
+    <string name="str_menu">"Menu"</string>
+    <string name="str_btn1">"Último"</string>
+    <string name="str_btn2">"Crear"</string>
+    <string name="str_btn3">"Histórico"</string>
+    <string name="str_btn_cancel">"Cancelar"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">esto es una línea de relleno WOD:</string>
+    <string name="str_wod">"WOD:"</string>
+    <string name="str_tipo">"Tipo:"</string>
+    <string name="str_time_cap">"Tiempo:"</string>
+    <string name="str_et_time_cap">"Ejem: 20"</string>
+    <string name="str_rondas">"Rondas:"</string>
+    <string name="str_et_rondas">"Ejem: 5"</string>
+    <string name="str_repes">"Nº Reps."</string>
+    <string name="str_describe_ejercicio">"Descripción"</string>
+    <string name="str_grupo_muscular">"Grupo muscular:"</string>
+    <string name="str_dificultad">"Nivel:"</string>
+    <string name="str_volver">Volver</string>
+    <string name="str_titulo_wod">CREAR NUEVO WOD</string>
+    <string name="str_btn_crearwod">CREAR</string>
+    <!-- strings para menu -->
+    <string name="str_historico_wod">HISTORIAL WOD</string>
+    <string name="str_ultimo_wod">ÚLTIMO WOD</string>
+
+    <!-- strings para activity abrir y cerrar-->
+    <string name="str_nav_drawer_open">Open</string>
+    <string name="str_nav_drawer_close">Close</string>
+
+    <string name="str_opciones">Opciones</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

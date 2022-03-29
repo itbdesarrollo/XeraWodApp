@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_crear"
+            android:title="@string/str_titulo_wod"
+            android:icon="@drawable/ic_new_wod_24"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/nav_historico"
+            android:title="@string/str_historico_wod"
+            android:icon="@drawable/ic_history_wod_24"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/nav_ultimo"
+            android:title="@string/str_ultimo_wod"
+            android:icon="@drawable/ic_last_wod_24"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/str_volver"
+            android:icon="@drawable/ic_flip_to_back_24"
+            app:showAsAction="never"/>
+    </group>
+</menu>
