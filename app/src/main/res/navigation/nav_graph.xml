@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/ultimoWodFragment">
+
+    <fragment
+        android:id="@+id/ultimoWodFragment"
+        android:name="llp.itbdesarrollo.xerawodapp.view.fragments.UltimoWodFragment"
+        android:label="fragment_ultimo_wod"
+        tools:layout="@layout/fragment_ultimo_wod" />
+    <fragment
+        android:id="@+id/crearWodFragment"
+        android:name="llp.itbdesarrollo.xerawodapp.view.fragments.CrearWodFragment"
+        android:label="fragment_crear_wod"
+        tools:layout="@layout/fragment_crear_wod" />
+    <fragment
+        android:id="@+id/historicoFragment"
+        android:name="llp.itbdesarrollo.xerawodapp.view.fragments.HistoricoFragment"
+        android:label="fragment_historico"
+        tools:layout="@layout/fragment_historico" />
+</navigation>

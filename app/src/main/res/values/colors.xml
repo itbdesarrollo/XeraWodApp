@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#D3912F</color>
+    <color name="btn_color_fondo">#D68319</color>
+    <color name="back_splash">#FED500</color>
+    <color name="back_splash2">#BDAC54</color>
+    <color name="xera_txt">#E08447</color>
+    <color name="xera_shape1">#EAA854</color>
+    <color name="xera_shape2">#F8CF6E</color>
+    <color name="xera_shape_light">#FFEBAD</color>
+    <color name="xera_btn_light">#A8A8A8</color>
+    <color name="back_splash_dark">#B4AE6B0C</color>
+    <color name="txt_btn">#B4120E09</color>
+    <!-- color con transparencia para hover -->
+    <color name="txt_btn_opa">#17120E09</color>
+    <color name="clr_opacity">#24E18615</color>
+    <color name="xera_btn_crear_wod">#F2F49216</color>
+    <color name="xera_barra">#FFB266</color>
+    <color name="clr_fondo_chulo">#3EBD8B50</color>
+    <color name="clr_opa_black">#D9000000</color>
+    <color name="xera_line">#191815</color>
+</resources>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="st_ContainerLogin">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">320dp</item>
+        <item name="android:background">@drawable/drw_container_login</item>
+        <item name="android:layout_margin">2dp</item>
+
+    </style>
+
+    <style name="st_etx_login">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/drw_tv_contain_login</item>
+        <item name="android:padding">15dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+
+    <style name="st_btn_login">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/drw_btn_login_register</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/txt_btn</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+    </style>
+
+    <style name="st_prb_loading">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+    </style>
+
+    <style name="st_btn_logout">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/btn_color_fondo</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+    </style>
+
+    <style name="st_btn_menu">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">?attr/actionBarSize</item>
+        <item name="android:background">@drawable/drw_corners</item>
+
+    </style>
+
+    <style name="st_Containermenu">
+        <item name="android:padding">10dp</item>
+        <item name="android:background">@color/txt_btn</item>
+        <item name="android:layout_margin">2dp</item>
+
+    </style>
+
+    <style name="st_btn_inicio">
+        <item name="android:background">@drawable/drw_btn_ultimo</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/txt_btn</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="st_frg_ult_wod">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/clr_opacity</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:padding">5dp</item>
+    </style>
+    <style name="st_tv_datos">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/back_splash</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/xera_btn_light</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+    <style name="st_btn_crear_wod">
+        <item name="android:background">@color/xera_btn_crear_wod</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/txt_btn</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+</resources>
