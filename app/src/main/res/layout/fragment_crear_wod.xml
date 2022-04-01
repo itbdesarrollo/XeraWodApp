@@ -5,7 +5,8 @@
         android:background="@drawable/drw_background_xera"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".view.fragments.CrearWodFragment" >
+        tools:context=".view.fragments.CrearWodFragment"
+    tools:ignore="MissingClass">
 
     <View
         android:id="@+id/contain_wod"

@@ -12,12 +12,6 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.XeraWodApp">
-        <activity
-            android:name=".view.CrearWodActivity"
-            android:exported="false" />
-        <activity
-            android:name=".view.HistoricoActivity"
-            android:exported="false" />
         <activity android:name=".view.SplashScreenActivity" />
         <activity
             android:name=".view.RegisterActivity"
