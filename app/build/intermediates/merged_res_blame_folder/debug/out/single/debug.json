@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_history_wod_24.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_history_wod_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_flip_to_back_24.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_flip_to_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_remove_eye_24.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_remove_eye_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_drw_ic_launch.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\drw_ic_launch.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_account_circle_50.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_50.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\menu_activity_menu_items.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\menu\\activity_menu_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_menu_open_60.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_baseline_menu_open_60.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_historico.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\item_historico.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_historico.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\fragment_historico.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_ultimo_wod.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\fragment_ultimo_wod.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_svg_launcher_ldpi.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_svg_launcher_ldpi.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_drw_splashscreen.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\drw_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_new_wod_24.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_new_wod_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_svg_launcher_xxxhdpi.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_svg_launcher_xxxhdpi.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_check_24.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_check_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_drw_tv_contain_login.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\drw_tv_contain_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_menu_open_1.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_baseline_menu_open_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_svg_launcher_notif.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_svg_launcher_notif.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_svg_launcher_xxxx.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_svg_launcher_xxxx.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\layout_action_bar_toolbar.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\action_bar_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\menu_icons_menu_toolbar.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\menu\\icons_menu_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\xml_root_preferences.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\xml\\root_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_svg_launcher_splash.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_svg_launcher_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_svg_launcher_xxhdpi.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_svg_launcher_xxhdpi.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_drw_btn_login_register.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\drw_btn_login_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_svg_launcher_xhdpi.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_svg_launcher_xhdpi.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_drw_corners.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\drw_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_svg_launcher_mdpi.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_svg_launcher_mdpi.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_menu.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_drw_container_login.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\drw_container_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_eye.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_crear_wod.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\fragment_crear_wod.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_menu_open_50.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_baseline_menu_open_50.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_svg_launcher_hdpi.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_svg_launcher_hdpi.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_bottom_menu.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\fragment_bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_last_wod_24.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_last_wod_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_drw_btn_ultimo.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\drw_btn_ultimo.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_drw_background_xera.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\drw_background_xera.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_xera.png.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_xera.png"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_svg_launcher.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\ic_svg_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_drw_btn_status.xml.flat",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\drawable\\drw_btn_status.xml"
+    }
+]

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:showIn="@layout/app_bar_main">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/it_account"
+            android:icon="@drawable/ic_baseline_account_circle_50"
+            tools:ignore="MenuTitle"
+            app:showAsAction="always"/>
+    </group>
+</menu>

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_historico.xml",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\activity_historico.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_ultimo_wod.xml",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\fragment_ultimo_wod.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_historico.xml",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\item_historico.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_blank.xml",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_crear_wod.xml",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\fragment_crear_wod.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_crear_wod.xml",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\activity_crear_wod.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_menu.xml",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\action_bar_toolbar.xml",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\action_bar_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_historico.xml",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\fragment_historico.xml"
+    },
+    {
+        "merged": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_bottom_menu.xml",
+        "source": "C:\\Users\\jandon\\AndroidStudioProjects\\XeraWodApp\\app\\src\\main\\res\\layout\\fragment_bottom_menu.xml"
+    }
+]

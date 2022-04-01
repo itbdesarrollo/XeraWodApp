@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@color/clr_fondo_chulo"
+    tools:showIn="@layout/activity_main"
+    android:layout_gravity="bottom">
+
+    <!-- Definir los 3 botones de navegación como material design button-->
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_ultimo"
+        style="@style/st_btn_inicio"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/str_btn1"
+        android:layout_marginStart="5dp"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_crear"
+        style="@style/st_btn_inicio"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/str_btn2"
+        android:layout_gravity="center|bottom"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_historico"
+        style="@style/st_btn_inicio"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/str_btn3"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="5dp"/>
+</LinearLayout>

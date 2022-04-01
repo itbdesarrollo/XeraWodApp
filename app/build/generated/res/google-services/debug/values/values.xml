@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">136714472203-qsn241i6keqldesm3dmpj4qlh91rcci3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">136714472203</string>
+    <string name="google_api_key" translatable="false">AIzaSyBTF2ufcwo1zfxP6ozS9vwa9gKJ7trJ-wI</string>
+    <string name="google_app_id" translatable="false">1:136714472203:android:8f89d11eaa479fa61e700e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBTF2ufcwo1zfxP6ozS9vwa9gKJ7trJ-wI</string>
+    <string name="google_storage_bucket" translatable="false">xerawod.appspot.com</string>
+    <string name="project_id" translatable="false">xerawod</string>
+</resources>

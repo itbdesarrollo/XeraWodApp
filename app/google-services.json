@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "136714472203",
+    "project_id": "xerawod",
+    "storage_bucket": "xerawod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136714472203:android:8f89d11eaa479fa61e700e",
+        "android_client_info": {
+          "package_name": "llp.itbdesarrollo.xerawodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136714472203-7i5uu0u81ooc2b7ad04sd573p65s6pie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "llp.itbdesarrollo.xerawodapp",
+            "certificate_hash": "2dd77212689ec2a14722a14a4148d27eefecf4a6"
+          }
+        },
+        {
+          "client_id": "136714472203-qsn241i6keqldesm3dmpj4qlh91rcci3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTF2ufcwo1zfxP6ozS9vwa9gKJ7trJ-wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136714472203-qsn241i6keqldesm3dmpj4qlh91rcci3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
